@@ -1,0 +1,32 @@
+body {
+	font-family: monospace;
+	padding: 20px;
+	color: purple;
+	background-color: lightpink;}
+nav {
+	font-weight: 800;
+	background-color: orange;
+	text-align: center;
+	width: 30em;
+	border: 2px solid orange;
+	}
+nav ul{
+	display: none;
+	position: relative;
+	top: 5px;
+	left: 60px;
+	width: 200px;
+	list-style-type: none;
+	}
+nav:hover ul{
+	display: block;
+}
+nav ul li{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	border-right: 5px solid yellow;
+}
+@media screen and (min-width: 900px){
+	body {background-color: lightblue;}
+}

@@ -1,0 +1,50 @@
+body{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.input1{
+	width: 45%;
+	margin: 0.5%;
+}
+
+.input2{
+	width: 70%;
+	margin-left: 3%;
+	margin-top: 5%;
+}
+.input3{
+	width: 70%;
+	margin-left: 3%;
+	margin-top: 5%;
+}
+div{
+	float: left;
+	margin-right: 14.9%;
+}
+.input4{
+	width: 35%;
+	margin-left: 0.75%;
+	margin-top: 1.5%;
+}
+.label5{
+	position: relative;
+	top: -2.5em;
+	left: -0.5em;
+}
+.input5{
+	position: relative;
+	left: -0.25em;
+	resize: none;
+	width: 45%;
+	height: 30%;
+}
+.label6{
+	position: relative;
+	left: -0.5em;
+	top: -45em;
+}
+.picture{
+	position: relative;
+	left: -0.25em;
+}
